@@ -1,0 +1,21 @@
+# 服务配置
+services:
+  # Next.js服务
+  nextjs-server:
+    container_name: nextjs-app
+    build:
+      context: .
+      dockerfile: dockerfile-nodejs-ssr
+    # 将容器的端口接通在宿主机上，冒号(:)前是宿主机的80端口、后是容器的3000端口
+    ports: 
+      - 80:3000
+    networks: 
+      - docker-network-nextjs
+
+# 网络配置    
+networks: 
+  docker-network-nextjs:
+    # 创建自定义network名称
+    name: docker-network-nextjs
+    # 使用此compose应用以外的network
+    external: true

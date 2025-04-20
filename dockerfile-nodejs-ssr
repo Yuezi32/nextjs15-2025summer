@@ -1,0 +1,24 @@
+# 基础镜像
+FROM node:22.14.0
+
+# 创建项目目录
+RUN mkdir -p /app/nextjs
+
+# 复制需要的项目文件到镜像中
+COPY ./package.json /app/nextjs
+COPY ./.next /app/nextjs/.next
+
+# 进入项目目录
+WORKDIR /app/nextjs
+
+# 设置npm国内镜像源
+RUN npm config set registry https://registry.npmmirror.com
+
+# 安装项目依赖包
+RUN npm install
+
+# 暴露端口
+EXPOSE 3000
+
+# 启动 SSR 服务
+CMD ["npm", "run", "start"]

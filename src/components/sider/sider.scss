@@ -1,0 +1,25 @@
+.M-sider {
+    overflow: hidden;
+    border-right-style: solid;
+    border-right-width: 1px;
+    .sider-main {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+    .sider-menu {
+        flex: 1;
+        overflow: hidden;
+        overflow-y: auto;
+    }
+    .sider-footer {
+        padding: 10px 14px;
+        height: 40px;
+        cursor: pointer;
+        border-top-style: solid;
+        border-top-width: 1px;
+        .anticon {
+            font-size: 20px;
+        }
+    }
+}

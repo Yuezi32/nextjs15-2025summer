@@ -1,0 +1,12 @@
+.M-serverList {
+    .item-con {
+        display: flex;
+        height: 40px;
+        .col-id {
+            width: 50px;
+        }
+        .col-title {
+            flex: 1;
+        }
+    }
+}
