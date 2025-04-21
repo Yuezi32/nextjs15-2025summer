@@ -8,9 +8,9 @@
 
 📚📚本项目有详细的讲解教程，原文请关注我的微信公众号【卧梅又闻花】📚📚
 
-[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（上篇）》](https://mp.weixin.qq.com/s/fiYFT4ALxZWYIcquQpzI5w)
+[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（上篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
 
-[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/sm2dU5LwjHwVTSF8DcHUFA)
+[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
 
 先看下目录了解本教程都有哪些内容。
 
@@ -177,6 +177,6 @@ docker compose -f ./compose-nodejs-ssr.yaml up -d
 ```
 💖 得“鱼🐟”，不如会“渔🎣”，原文请关注我的微信公众号【卧梅又闻花】💖
 
-[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（上篇）》](https://mp.weixin.qq.com/s/fiYFT4ALxZWYIcquQpzI5w)
+[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（上篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
 
-[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/sm2dU5LwjHwVTSF8DcHUFA)
+[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
