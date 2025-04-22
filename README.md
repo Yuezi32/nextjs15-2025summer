@@ -10,7 +10,7 @@
 
 [《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（上篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
 
-[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
+[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/qspZ16sxD5JPuZu4NTnN2A)
 
 先看下目录了解本教程都有哪些内容。
 
@@ -179,4 +179,4 @@ docker compose -f ./compose-nodejs-ssr.yaml up -d
 
 [《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（上篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
 
-[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/BqtVtS1POYk-Rj3e49GmYQ)
+[《2025盛夏版：Next.js15+Antd5开发部署SSR网站速通教程（下篇）》](https://mp.weixin.qq.com/s/qspZ16sxD5JPuZu4NTnN2A)
